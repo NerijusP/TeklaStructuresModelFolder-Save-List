@@ -105,48 +105,8 @@ namespace CD_Last_Saved
             }
 
 
-
-            //foreach (string dir in dirs)
-            //{
-            //    MessageBox.Show(dir);
-            //}
-
-
-
-
-
-
-
-            ////MessageBox.Show(ipadresas2);
-
-
-            //if (ipadresas2=="ts3")
-            //{
-            //    ipadresas2 = "192.168.12.252";
-            //}
-
-
-            //string restpradz = @"\\cd2\07_Automatizavimas\Multi-user_restart\";
-
-            //string restbendr = Path.Combine(restpradz, ipadresas2);
-            //System.IO.StreamWriter file0 = new StreamWriter(restbendr+"\\"+portas+ ".txt", true);
-            //file0.Close();
-            //MessageBox.Show("MultiUser serveris keliu minuciu begyje persikraus ir modelis turetų atsirakinti.");
-
-            //string dabartinis33 = DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss");
-            //System.IO.StreamWriter file4 = new StreamWriter(@"\\cd1\05_TM_TS_FIRM\KC_FIRM\Component_logs\CD_Last_Saved.txt", true);
-            ////file3.Write("\r\n" + dabartinis + " Panaudotas KC_Clash_Check_Modelyje: " + vardas, Environment.NewLine);
-            //file4.Write("\r\n" + dabartinis  + "\t" +"CD_Last_Saved", Environment.NewLine);
-            //file4.Close();
-            //file4.Close();
-
-
-
             MessageBox.Show("Sarasas parengtas");
 
-            //Process myProcess = new Process();
-            //Process.Start("notepad.exe", direktorija + "\\CD_MultiUser_List_All.txt");
-            //File.Open(direktorija + "\\CD_MultiUser_List_All.txt", FileMode.Open);
 
         }
     }
